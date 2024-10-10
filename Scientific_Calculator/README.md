@@ -1,3 +1,18 @@
+Steps to Create Scientific Calculator in React:-
+
+Step 1: Create a new React JS project using the following command:
+
+npx create-react-app <<Project_Name>>
+
+Step 2: Change to the project directory:
+
+cd  <<Project_Name>>
+
+Step 3: Install some npm packages required for this project using the following command:
+
+npm install mathjs
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
